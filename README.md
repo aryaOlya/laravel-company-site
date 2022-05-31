@@ -1,1 +1,1 @@
-this is my first fullstack practice project where html,css,javascript,jquery,bootstrap,php and laravel used
+simple company site use php,laravel,js,html,css and bootstrap
